@@ -1,1 +1,357 @@
-{"at":0,"list":[]}
+{
+ "at": 1795108303829,
+ "list": [
+  {
+   "id": "espn-1539440",
+   "name": "New Zealand vs India, 4th ODI",
+   "series": "India tour of New Zealand 2026/27 · 4th ODI",
+   "fmt": "odi",
+   "a": "New Zealand",
+   "b": "India",
+   "start": 1794535200000,
+   "venue": "Bay Oval, Mount Maunganui",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1528703",
+   "name": "Australia vs England, 1st ODI",
+   "series": "England tour of Australia 2026/27 · 1st ODI",
+   "fmt": "odi",
+   "a": "Australia",
+   "b": "England",
+   "start": 1794540600000,
+   "venue": "Perth Stadium",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1539441",
+   "name": "New Zealand vs India, 5th ODI",
+   "series": "India tour of New Zealand 2026/27 · 5th ODI",
+   "fmt": "odi",
+   "a": "New Zealand",
+   "b": "India",
+   "start": 1794708000000,
+   "venue": "Bay Oval, Mount Maunganui",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1528704",
+   "name": "Australia vs England, 2nd ODI",
+   "series": "England tour of Australia 2026/27 · 2nd ODI",
+   "fmt": "odi",
+   "a": "Australia",
+   "b": "England",
+   "start": 1794713400000,
+   "venue": "Adelaide Oval",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1525662",
+   "name": "South Africa vs Bangladesh, 1st Test",
+   "series": "Bangladesh tour of South Africa 2026/27 · 1st Test",
+   "fmt": "test",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1794729600000,
+   "venue": "The Wanderers Stadium, Johannesburg",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1550712",
+   "name": "Pakistan vs Sri Lanka, 2nd Test",
+   "series": "Sri Lanka tour of Pakistan 2026/27 · 2nd Test",
+   "fmt": "test",
+   "a": "Pakistan",
+   "b": "Sri Lanka",
+   "start": 1794889800000,
+   "venue": "Rawalpindi Cricket Stadium",
+   "status": "Stumps"
+  },
+  {
+   "id": "espn-1528705",
+   "name": "Australia vs England, 3rd ODI",
+   "series": "England tour of Australia 2026/27 · 3rd ODI",
+   "fmt": "odi",
+   "a": "Australia",
+   "b": "England",
+   "start": 1794972600000,
+   "venue": "Bellerive Oval, Hobart",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1539442",
+   "name": "New Zealand vs India, 1st Test",
+   "series": "India tour of New Zealand 2026/27 · 1st Test",
+   "fmt": "test",
+   "a": "New Zealand",
+   "b": "India",
+   "start": 1795039200000,
+   "venue": "Basin Reserve, Wellington",
+   "status": "Stumps"
+  },
+  {
+   "id": "espn-1528706",
+   "name": "Australia vs England, 1st T20I",
+   "series": "England tour of Australia 2026/27 · 1st T20I",
+   "fmt": "t20",
+   "a": "Australia",
+   "b": "England",
+   "start": 1795248900000,
+   "venue": "Melbourne Cricket Ground",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525663",
+   "name": "South Africa vs Bangladesh, 2nd Test",
+   "series": "Bangladesh tour of South Africa 2026/27 · 2nd Test",
+   "fmt": "test",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1795420800000,
+   "venue": "SuperSport Park, Centurion",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1528707",
+   "name": "Australia vs England, 2nd T20I",
+   "series": "England tour of Australia 2026/27 · 2nd T20I",
+   "fmt": "t20",
+   "a": "Australia",
+   "b": "England",
+   "start": 1795508100000,
+   "venue": "Carrara Oval",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1539443",
+   "name": "New Zealand vs India, 2nd Test",
+   "series": "India tour of New Zealand 2026/27 · 2nd Test",
+   "fmt": "test",
+   "a": "New Zealand",
+   "b": "India",
+   "start": 1795730400000,
+   "venue": "Hagley Oval, Christchurch",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1528708",
+   "name": "Australia vs England, 3rd T20I",
+   "series": "England tour of Australia 2026/27 · 3rd T20I",
+   "fmt": "t20",
+   "a": "Australia",
+   "b": "England",
+   "start": 1795767300000,
+   "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1528709",
+   "name": "Australia vs England, 4th T20I",
+   "series": "England tour of Australia 2026/27 · 4th T20I",
+   "fmt": "t20",
+   "a": "Australia",
+   "b": "England",
+   "start": 1795940100000,
+   "venue": "Sydney Cricket Ground",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525664",
+   "name": "South Africa vs Bangladesh, 1st ODI",
+   "series": "Bangladesh tour of South Africa 2026/27 · 1st ODI",
+   "fmt": "odi",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1796124600000,
+   "venue": "Buffalo Park, KuGumpo City",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1528710",
+   "name": "Australia vs England, 5th T20I",
+   "series": "England tour of Australia 2026/27 · 5th T20I",
+   "fmt": "t20",
+   "a": "Australia",
+   "b": "England",
+   "start": 1796199300000,
+   "venue": "Manuka Oval, Canberra",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1561101",
+   "name": "Canada vs Namibia, 2nd Match",
+   "series": "ICC Cricket World Cup Qualifier Play-off · 2nd Match",
+   "fmt": "odi",
+   "a": "Canada",
+   "b": "Namibia",
+   "start": 1796357700000,
+   "venue": "Mulpani Cricket Ground",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525665",
+   "name": "South Africa vs Bangladesh, 2nd ODI",
+   "series": "Bangladesh tour of South Africa 2026/27 · 2nd ODI",
+   "fmt": "odi",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1796383800000,
+   "venue": "St George's Park, Gqeberha",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1561104",
+   "name": "Nepal vs Uganda, 5th Match",
+   "series": "ICC Cricket World Cup Qualifier Play-off · 5th Match",
+   "fmt": "odi",
+   "a": "Nepal",
+   "b": "Uganda",
+   "start": 1796530500000,
+   "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525666",
+   "name": "South Africa vs Bangladesh, 3rd ODI",
+   "series": "Bangladesh tour of South Africa 2026/27 · 3rd ODI",
+   "fmt": "odi",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1796643000000,
+   "venue": "Newlands, Cape Town",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1528711",
+   "name": "Australia vs New Zealand, 1st Test",
+   "series": "New Zealand tour of Australia 2026/27 · 1st Test",
+   "fmt": "test",
+   "a": "Australia",
+   "b": "New Zealand",
+   "start": 1796782800000,
+   "venue": "Perth Stadium",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525667",
+   "name": "South Africa vs Bangladesh, 1st T20I",
+   "series": "Bangladesh tour of South Africa 2026/27 · 1st T20I",
+   "fmt": "t20",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1796918400000,
+   "venue": "Diamond Oval, Kimberley",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1561113",
+   "name": "Canada vs Namibia, 14th Match",
+   "series": "ICC Cricket World Cup Qualifier Play-off · 14th Match",
+   "fmt": "odi",
+   "a": "Canada",
+   "b": "Namibia",
+   "start": 1797048900000,
+   "venue": "Mulpani Cricket Ground",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525668",
+   "name": "South Africa vs Bangladesh, 2nd T20I",
+   "series": "Bangladesh tour of South Africa 2026/27 · 2nd T20I",
+   "fmt": "t20",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1797078600000,
+   "venue": "Willowmoore Park, Benoni",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1529235",
+   "name": "India vs Sri Lanka, 1st ODI",
+   "series": "Sri Lanka tour of India 2026/27 · 1st ODI",
+   "fmt": "odi",
+   "a": "India",
+   "b": "Sri Lanka",
+   "start": 1797150600000,
+   "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525669",
+   "name": "South Africa vs Bangladesh, 3rd T20I",
+   "series": "Bangladesh tour of South Africa 2026/27 · 3rd T20I",
+   "fmt": "t20",
+   "a": "South Africa",
+   "b": "Bangladesh",
+   "start": 1797165000000,
+   "venue": "SuperSport Park, Centurion",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1561116",
+   "name": "Nepal vs Canada, 17th Match",
+   "series": "ICC Cricket World Cup Qualifier Play-off · 17th Match",
+   "fmt": "odi",
+   "a": "Nepal",
+   "b": "Canada",
+   "start": 1797221700000,
+   "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1529236",
+   "name": "India vs Sri Lanka, 2nd ODI",
+   "series": "Sri Lanka tour of India 2026/27 · 2nd ODI",
+   "fmt": "odi",
+   "a": "India",
+   "b": "Sri Lanka",
+   "start": 1797409800000,
+   "venue": "M.Chinnaswamy Stadium, Bengaluru",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1528712",
+   "name": "Australia vs New Zealand, 2nd Test",
+   "series": "New Zealand tour of Australia 2026/27 · 2nd Test",
+   "fmt": "test",
+   "a": "Australia",
+   "b": "New Zealand",
+   "start": 1797467400000,
+   "venue": "Adelaide Oval",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1525671",
+   "name": "South Africa vs England, 1st Test",
+   "series": "England tour of South Africa 2026/27 · 1st Test",
+   "fmt": "test",
+   "a": "South Africa",
+   "b": "England",
+   "start": 1797494400000,
+   "venue": "The Wanderers Stadium, Johannesburg",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1561122",
+   "name": "Nepal vs Namibia, 23rd Match",
+   "series": "ICC Cricket World Cup Qualifier Play-off · 23rd Match",
+   "fmt": "odi",
+   "a": "Nepal",
+   "b": "Namibia",
+   "start": 1797567300000,
+   "venue": "Tribhuvan University International Cricket Ground, Kirtipur",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1529237",
+   "name": "India vs Sri Lanka, 3rd ODI",
+   "series": "Sri Lanka tour of India 2026/27 · 3rd ODI",
+   "fmt": "odi",
+   "a": "India",
+   "b": "Sri Lanka",
+   "start": 1797669000000,
+   "venue": "Narendra Modi Stadium, Motera, Ahmedabad",
+   "status": "Scheduled"
+  }
+ ]
+}
