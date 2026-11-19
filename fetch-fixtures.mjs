@@ -53,5 +53,16 @@ if (espn) {
     const name = m.name ?? `${a} vs ${b}`; list.push({ id: m.id, name, series: name.split(",").slice(1).join(",").trim() || fmt.toUpperCase(), fmt, a, b, start, venue: m.venue, status: m.status }); }
   if ((j.data ?? []).length < 25) break;
 }
+// the owner's own fixture list (curated.json next to this script, his schema: international_matches[]) fills the gaps and looks
+// further ahead (4 months); the same match from the feed wins (same two sides, starting within a day and a half)
+import { existsSync, readFileSync } from "node:fs";
+const curPath = new URL("curated.json", import.meta.url).pathname;
+if (existsSync(curPath)) { let added = 0; const cur = JSON.parse(readFileSync(curPath, "utf8"));
+  for (const m of cur.international_matches ?? []) { const fmt = fmtOf(m.format), a = side(m.home_team), b = side(m.away_team), start = Date.parse(m.start_time_utc ?? `${m.start_date}T00:00:00Z`);
+    if (!fmt || !a || !b || !Number.isFinite(start) || start < now - 8 * DAY || start > now + 120 * DAY) continue;
+    if (list.some((x) => ((x.a === a && x.b === b) || (x.a === b && x.b === a)) && Math.abs(x.start - start) < 1.5 * DAY)) continue;
+    const match = String(m.match ?? "").replace(/\s*\(ongoing\)/i, "");
+    list.push({ id: `cur-${a}-${b}-${(m.start_date ?? "").replace(/-/g, "")}`.replace(/\s+/g, ""), name: `${a} vs ${b}${match ? `, ${match}` : ""}`, series: [m.series, match].filter(Boolean).join(" · "), fmt, a, b, start, venue: [m.venue, m.city].filter(Boolean).join(", ") }); added++; }
+  console.log(`curated.json: ${added} more matches`); }
 list.sort((x, y) => x.start - y.start);
 writeFileSync(out, JSON.stringify({ at: now, list }, null, 1)); console.log(`${list.length} matches → ${out}`);
