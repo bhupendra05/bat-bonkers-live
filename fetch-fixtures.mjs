@@ -3,10 +3,10 @@
 // game reads (VITE_LIVE_FEED_URL at build time). Only the matches between the game's sides are kept, with the game's own team names.
 //   CRICAPI_KEY=xxxx node tools/live/fetch-fixtures.mjs [out.json]
 import { writeFileSync } from "node:fs";
-// Two providers: cricketliveapi.com (CRICKETLIVE_API_KEY, a Bearer token: /api/v1/cricket/matches/upcoming + /live + /recent) or
+// Three providers: ESPN (default, no key), cricketliveapi.com (CRICKETLIVE_API_KEY, a Bearer token: /api/v1/cricket/matches/upcoming + /live + /recent) or
 // CricAPI (CRICAPI_KEY: api.cricapi.com/v1/matches). The first key that is set is used.
-const liveKey = process.env.CRICKETLIVE_API_KEY, key = process.env.CRICAPI_KEY;
-if (!liveKey && !key) { console.error("set CRICKETLIVE_API_KEY (cricketliveapi.com) or CRICAPI_KEY (cricketdata.org)"); process.exit(1); }
+// With neither key: ESPN's public cricket feed (no key, no sign-up: the one ESPN's own pages read; undocumented, so it may change).
+const liveKey = process.env.CRICKETLIVE_API_KEY, key = process.env.CRICAPI_KEY, espn = !liveKey && !key;
 const out = process.argv[2] ?? "fixtures.json", DAY = 86_400_000, now = Date.now();
 const NATIONS = ["India", "Australia", "England", "South Africa", "New Zealand", "Pakistan", "Sri Lanka", "West Indies", "Bangladesh", "Afghanistan", "Ireland", "Netherlands", "Scotland", "Namibia", "USA", "Nepal", "Oman", "Canada", "Uganda", "Papua New Guinea"];
 const ALIAS = { "United States of America": "USA", "United States": "USA", "Mumbai Indians": "Mumbai Indianz", "Chennai Super Kings": "Chennai Super Kingz", "Royal Challengers Bengaluru": "Royal Challengers Bengaluroo", "Royal Challengers Bangalore": "Royal Challengers Bengaluroo", "Kolkata Knight Riders": "Kolkata Knight Riderz", "Delhi Capitals": "Delhi Capitalz", "Punjab Kings": "Punjab Kingz", "Rajasthan Royals": "Rajasthan Royalz", "Sunrisers Hyderabad": "Sunrisers Hyderabaad", "Lucknow Super Giants": "Lucknow Super Giantz", "Gujarat Titans": "Gujarat Titanz", PNG: "Papua New Guinea" };
@@ -17,7 +17,22 @@ const fmtOf = (x) => { const f = String(x ?? "").toLowerCase(); return /t20/.tes
 // cricketliveapi.com's start time field is not in its public docs: the usual names are tried (seconds or ms or an ISO date)
 const startOf = (m) => { for (const k of ["start_time", "startTime", "start_date", "startDate", "match_start", "match_date", "matchDate", "date_time", "dateTimeGMT", "start", "date", "timestamp", "start_timestamp"]) { const v = m[k]; if (v === undefined || v === null || v === "") continue;
     const n = Number(v); if (Number.isFinite(n) && n > 1e9) return n < 1e12 ? n * 1000 : n; const t = Date.parse(/Z|[+-]\d\d:?\d\d$/.test(String(v)) || !/T|\d:\d/.test(String(v)) ? String(v) : `${v}Z`); if (Number.isFinite(t)) return t; } return NaN; };
-if (liveKey) {
+const ymd = (t) => new Date(t).toISOString().slice(0, 10).replace(/-/g, "");
+if (espn) {
+  // each date from a week ago to 30 days on: that day's matches (ESPN answers a date with the matches around it); kept: Tests, ODIs,
+  // T20Is between the game's nations, and T20s between IPL franchises
+  const seen = new Set();
+  for (let d = -7; d <= 30; d++) {
+    let j; try { const r = await fetch(`https://site.api.espn.com/apis/site/v2/sports/cricket/scorepanel?dates=${ymd(now + d * DAY)}`); if (!r.ok) { console.error(`ESPN ${d}: HTTP ${r.status}`); continue; } j = await r.json(); } catch (e) { console.error(`ESPN ${d}:`, e.message); continue; }
+    for (const sc of j.scores ?? []) for (const e of sc.events ?? []) { const c = e.competitions?.[0]; if (!c || seen.has(e.id)) continue; seen.add(e.id);
+      const cls = String(c.class?.generalClassCard ?? ""), [ta, tb] = (c.competitors ?? []).map((x) => x.team?.displayName ?? x.team?.name), a = side(ta), b = side(tb);
+      if (/women/i.test(cls) || !a || !b) continue; const ipl = !NATIONS.includes(a) && !NATIONS.includes(b);
+      const fmt = cls === "Test" ? "test" : cls === "ODI" ? "odi" : cls === "T20I" ? "t20" : ipl && /twenty20|t20/i.test(cls) ? "t20" : null; if (!fmt || (ipl ? NATIONS.includes(a) || NATIONS.includes(b) : !NATIONS.includes(a) || !NATIONS.includes(b))) continue;
+      const start = Date.parse(e.date); if (!Number.isFinite(start) || start < now - 8 * DAY || start > now + 30 * DAY) continue;
+      const lg = sc.leagues?.find((l) => l.id === String(e.leagueId)) ?? sc.leagues?.[0], desc = c.description ?? e.description ?? "";
+      list.push({ id: `espn-${e.id}`, name: `${a} vs ${b}${desc ? `, ${desc}` : ""}`, series: [lg?.name, desc].filter(Boolean).join(" · ") || cls, fmt, a, b, start, venue: c.venue?.fullName, status: e.status?.type?.description }); }
+  }
+} else if (liveKey) {
   let shown = false;
   for (const kind of ["live", "upcoming", "recent"]) {
     const r = await fetch(`https://cricketliveapi.com/api/v1/cricket/matches/${kind}`, { headers: { Authorization: `Bearer ${liveKey}`, Accept: "application/json" } });
