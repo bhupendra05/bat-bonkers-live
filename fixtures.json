@@ -1,5 +1,5 @@
 {
- "at": 1795108303829,
+ "at": 1795109702208,
  "list": [
   {
    "id": "espn-1539440",
@@ -352,6 +352,126 @@
    "start": 1797669000000,
    "venue": "Narendra Modi Stadium, Motera, Ahmedabad",
    "status": "Scheduled"
+  },
+  {
+   "id": "cur-Australia-NewZealand-20261226",
+   "name": "Australia vs New Zealand, 3rd Test",
+   "series": "New Zealand tour of Australia 2026-27 · 3rd Test",
+   "fmt": "test",
+   "a": "Australia",
+   "b": "New Zealand",
+   "start": 1798241400000,
+   "venue": "Melbourne Cricket Ground, Melbourne"
+  },
+  {
+   "id": "cur-SouthAfrica-England-20261226",
+   "name": "South Africa vs England, 2nd Test",
+   "series": "England tour of South Africa 2026-27 · 2nd Test",
+   "fmt": "test",
+   "a": "South Africa",
+   "b": "England",
+   "start": 1798272000000,
+   "venue": "SuperSport Park, Centurion"
+  },
+  {
+   "id": "cur-SouthAfrica-England-20270103",
+   "name": "South Africa vs England, 3rd Test",
+   "series": "England tour of South Africa 2026-27 · 3rd Test",
+   "fmt": "test",
+   "a": "South Africa",
+   "b": "England",
+   "start": 1798965000000,
+   "venue": "Newlands, Cape Town"
+  },
+  {
+   "id": "cur-Australia-NewZealand-20270104",
+   "name": "Australia vs New Zealand, 4th Test",
+   "series": "New Zealand tour of Australia 2026-27 · 4th Test",
+   "fmt": "test",
+   "a": "Australia",
+   "b": "New Zealand",
+   "start": 1799015400000,
+   "venue": "Sydney Cricket Ground, Sydney"
+  },
+  {
+   "id": "cur-SouthAfrica-England-20270110",
+   "name": "South Africa vs England, 1st ODI",
+   "series": "England tour of South Africa 2026-27 · 1st ODI",
+   "fmt": "odi",
+   "a": "South Africa",
+   "b": "England",
+   "start": 1799578800000,
+   "venue": "Boland Park, Paarl"
+  },
+  {
+   "id": "cur-SouthAfrica-England-20270113",
+   "name": "South Africa vs England, 2nd ODI",
+   "series": "England tour of South Africa 2026-27 · 2nd ODI",
+   "fmt": "odi",
+   "a": "South Africa",
+   "b": "England",
+   "start": 1799838000000,
+   "venue": "Mangaung Oval, Bloemfontein"
+  },
+  {
+   "id": "cur-SouthAfrica-England-20270115",
+   "name": "South Africa vs England, 3rd ODI",
+   "series": "England tour of South Africa 2026-27 · 3rd ODI",
+   "fmt": "odi",
+   "a": "South Africa",
+   "b": "England",
+   "start": 1800010800000,
+   "venue": "Mangaung Oval, Bloemfontein"
+  },
+  {
+   "id": "cur-India-Australia-20270121",
+   "name": "India vs Australia, 1st Test",
+   "series": "Australia tour of India 2027 (Border-Gavaskar Trophy) · 1st Test",
+   "fmt": "test",
+   "a": "India",
+   "b": "Australia",
+   "start": 1800504000000,
+   "venue": "Vidarbha Cricket Association Stadium, Nagpur"
+  },
+  {
+   "id": "cur-India-Australia-20270129",
+   "name": "India vs Australia, 2nd Test",
+   "series": "Australia tour of India 2027 (Border-Gavaskar Trophy) · 2nd Test",
+   "fmt": "test",
+   "a": "India",
+   "b": "Australia",
+   "start": 1801195200000,
+   "venue": "MA Chidambaram Stadium, Chennai"
+  },
+  {
+   "id": "cur-India-Australia-20270211",
+   "name": "India vs Australia, 3rd Test",
+   "series": "Australia tour of India 2027 (Border-Gavaskar Trophy) · 3rd Test",
+   "fmt": "test",
+   "a": "India",
+   "b": "Australia",
+   "start": 1802318400000,
+   "venue": "Barsapara Cricket Stadium, Guwahati"
+  },
+  {
+   "id": "cur-India-Australia-20270219",
+   "name": "India vs Australia, 4th Test",
+   "series": "Australia tour of India 2027 (Border-Gavaskar Trophy) · 4th Test",
+   "fmt": "test",
+   "a": "India",
+   "b": "Australia",
+   "start": 1803009600000,
+   "venue": "JSCA International Stadium Complex, Ranchi"
+  },
+  {
+   "id": "cur-India-Australia-20270227",
+   "name": "India vs Australia, 5th Test",
+   "series": "Australia tour of India 2027 (Border-Gavaskar Trophy) · 5th Test",
+   "fmt": "test",
+   "a": "India",
+   "b": "Australia",
+   "start": 1803700800000,
+   "venue": "Narendra Modi Stadium, Ahmedabad"
   }
  ]
 }
