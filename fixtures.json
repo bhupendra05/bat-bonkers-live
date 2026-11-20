@@ -1,5 +1,5 @@
 {
- "at": 1795139155814,
+ "at": 1795179024179,
  "list": [
   {
    "id": "espn-1539440",
@@ -65,7 +65,7 @@
    "b": "Sri Lanka",
    "start": 1794889800000,
    "venue": "Rawalpindi Cricket Stadium",
-   "status": "Stumps"
+   "status": "Result"
   },
   {
    "id": "espn-1528705",
@@ -87,7 +87,7 @@
    "b": "India",
    "start": 1795039200000,
    "venue": "Basin Reserve, Wellington",
-   "status": "Drinks"
+   "status": "Stumps"
   },
   {
    "id": "espn-1528706",
