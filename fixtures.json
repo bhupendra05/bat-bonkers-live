@@ -1,28 +1,6 @@
 {
- "at": 1795214374905,
+ "at": 1795244374283,
  "list": [
-  {
-   "id": "espn-1539440",
-   "name": "New Zealand vs India, 4th ODI",
-   "series": "India tour of New Zealand 2026/27 · 4th ODI",
-   "fmt": "odi",
-   "a": "New Zealand",
-   "b": "India",
-   "start": 1794535200000,
-   "venue": "Bay Oval, Mount Maunganui",
-   "status": "Result"
-  },
-  {
-   "id": "espn-1528703",
-   "name": "Australia vs England, 1st ODI",
-   "series": "England tour of Australia 2026/27 · 1st ODI",
-   "fmt": "odi",
-   "a": "Australia",
-   "b": "England",
-   "start": 1794540600000,
-   "venue": "Perth Stadium",
-   "status": "Result"
-  },
   {
    "id": "espn-1539441",
    "name": "New Zealand vs India, 5th ODI",
@@ -87,7 +65,7 @@
    "b": "India",
    "start": 1795039200000,
    "venue": "Basin Reserve, Wellington",
-   "status": "Live"
+   "status": "Stumps"
   },
   {
    "id": "espn-1528706",
@@ -351,6 +329,17 @@
    "b": "Sri Lanka",
    "start": 1797669000000,
    "venue": "Narendra Modi Stadium, Motera, Ahmedabad",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1561127",
+   "name": "Canada vs Uganda, 28th Match",
+   "series": "ICC Cricket World Cup Qualifier Play-off · 28th Match",
+   "fmt": "odi",
+   "a": "Canada",
+   "b": "Uganda",
+   "start": 1797826500000,
+   "venue": "Mulpani Cricket Ground",
    "status": "Scheduled"
   },
   {
