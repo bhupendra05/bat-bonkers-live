@@ -1,5 +1,5 @@
 {
- "at": 1795329614936,
+ "at": 1795364061481,
  "list": [
   {
    "id": "espn-1539441",
@@ -340,6 +340,17 @@
    "b": "Uganda",
    "start": 1797826500000,
    "venue": "Mulpani Cricket Ground",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1529238",
+   "name": "India vs Sri Lanka, 1st T20I",
+   "series": "Sri Lanka tour of India 2026/27 · 1st T20I",
+   "fmt": "t20",
+   "a": "India",
+   "b": "Sri Lanka",
+   "start": 1797946200000,
+   "venue": "Niranjan Shah Stadium, Rajkot",
    "status": "Scheduled"
   },
   {
