@@ -30,8 +30,25 @@ if (espn) {
       const fmt = cls === "Test" ? "test" : cls === "ODI" ? "odi" : cls === "T20I" ? "t20" : ipl && /twenty20|t20/i.test(cls) ? "t20" : null; if (!fmt || (ipl ? NATIONS.includes(a) || NATIONS.includes(b) : !NATIONS.includes(a) || !NATIONS.includes(b))) continue;
       const start = Date.parse(e.date); if (!Number.isFinite(start) || start < now - 8 * DAY || start > now + 30 * DAY) continue;
       const lg = sc.leagues?.find((l) => l.id === String(e.leagueId)) ?? sc.leagues?.[0], desc = c.description ?? e.description ?? "";
-      list.push({ id: `espn-${e.id}`, name: `${a} vs ${b}${desc ? `, ${desc}` : ""}`, series: [lg?.name, desc].filter(Boolean).join(" · ") || cls, fmt, a, b, start, venue: c.venue?.fullName, status: e.status?.type?.description }); }
+      list.push({ lgId: String(e.leagueId ?? lg?.id ?? ""), id: `espn-${e.id}`, name: `${a} vs ${b}${desc ? `, ${desc}` : ""}`, series: [lg?.name, desc].filter(Boolean).join(" · ") || cls, fmt, a, b, start, venue: c.venue?.fullName, status: e.status?.type?.description }); }
   }
+  /* 1.4.89 (the owner: "the live match should have the real squad, the players who are playing"): each match's real squads from
+     ESPN's match page: the announced squad (before the toss) and the playing XI (after it). Kept per side in the game's own team
+     names as [name, role (bat|wk|all|bowl), in the XI 1/0, captain 1/0]. A side with nothing announced yet keeps no list (the game
+     then uses its own squad). Only matches from 3 days ago to 3 weeks ahead are asked (a few dozen calls, every 4 hours). */
+  const roleOf = (a) => { const t = `${a.position?.abbreviation ?? ""} ${a.position?.name ?? ""}`; return a.keeper || /WK|WBT|keeper/i.test(t) ? "wk" : /AR|all.?round/i.test(t) ? "all" : /BL|bowl/i.test(t) ? "bowl" : "bat"; };
+  let asked = 0, got = 0;
+  for (const m of list) { const eid = m.id.replace(/^espn-/, ""); if (!m.lgId || m.start < now - 3 * DAY || m.start > now + 21 * DAY) continue;
+    try { asked++; const r = await fetch(`https://site.api.espn.com/apis/site/v2/sports/cricket/${m.lgId}/summary?event=${eid}`); if (!r.ok) continue; const j = await r.json(); const sq = {};
+      for (const g of j.squads ?? []) { const t = side(g.team?.displayName ?? g.team?.name); if (!t) continue; sq[t] = (g.athletes ?? []).map((a) => [a.displayName ?? a.name, roleOf(a), 0, a.captain ? 1 : 0]); }
+      for (const g of j.rosters ?? []) { const t = side(g.team?.displayName ?? g.team?.name); if (!t || !(g.roster ?? []).length) continue; const L = (sq[t] ??= []);
+        for (const x of g.roster) { const n = x.athlete?.displayName; if (!n) continue; const pos = { position: typeof x.position === "object" ? x.position : { abbreviation: String(x.position ?? "") }, keeper: /WK/.test(x.position?.abbreviation ?? "") };
+          const row = L.find((q) => q[0] === n); if (row) row[2] = x.starter === false ? 0 : 1; else L.push([n, roleOf(pos), x.starter === false ? 0 : 1, x.captain ? 1 : 0]); }
+        // the XI in its batting order first (the order ESPN lists it), the rest of the squad after
+        const xi = g.roster.map((x) => x.athlete?.displayName); L.sort((p, q) => (q[2] - p[2]) || (xi.indexOf(p[0]) - xi.indexOf(q[0]))); }
+      for (const k of Object.keys(sq)) if (!sq[k].length) delete sq[k]; if (Object.keys(sq).length) { m.sq = sq; got++; } } catch (e) { console.error(`squads ${m.id}:`, e.message); } }
+  for (const m of list) delete m.lgId;
+  console.log(`squads: ${got} of ${asked} matches have real squads`);
 } else if (liveKey) {
   let shown = false;
   for (const kind of ["live", "upcoming", "recent"]) {
