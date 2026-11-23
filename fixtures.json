@@ -1,17 +1,6 @@
 {
- "at": 1795418102326,
+ "at": 1795464404900,
  "list": [
-  {
-   "id": "espn-1525662",
-   "name": "South Africa vs Bangladesh, 1st Test",
-   "series": "Bangladesh tour of South Africa 2026/27 · 1st Test",
-   "fmt": "test",
-   "a": "South Africa",
-   "b": "Bangladesh",
-   "start": 1794729600000,
-   "venue": "The Wanderers Stadium, Johannesburg",
-   "status": "Result"
-  },
   {
    "id": "espn-1550712",
    "name": "Pakistan vs Sri Lanka, 2nd Test",
@@ -203,9 +192,75 @@
    "b": "Bangladesh",
    "start": 1795420800000,
    "venue": "SuperSport Park, Centurion",
-   "status": "Scheduled",
+   "status": "Stumps",
    "sq": {
     "South Africa": [
+     [
+      "Aiden Markram",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Marques Ackerman",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Zubayr Hamza",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Tony de Zorzi",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Matthew Breetzke",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Ryan Rickelton",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Wiaan Mulder",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Marco Jansen",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Simon Harmer",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Kagiso Rabada",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Anrich Nortje",
+      "bowl",
+      1,
+      0
+     ],
      [
       "Temba Bavuma",
       "bat",
@@ -213,37 +268,7 @@
       1
      ],
      [
-      "Marques Ackerman",
-      "bat",
-      0,
-      0
-     ],
-     [
       "Corbin Bosch",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Matthew Breetzke",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Tony de Zorzi",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Simon Harmer",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Marco Jansen",
       "all",
       0,
       0
@@ -255,82 +280,82 @@
       0
      ],
      [
-      "Aiden Markram",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Wiaan Mulder",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Anrich Nortje",
-      "bowl",
-      0,
-      0
-     ],
-     [
       "Dane Paterson",
       "bowl",
-      0,
-      0
-     ],
-     [
-      "Kagiso Rabada",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Ryan Rickelton",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Zubayr Hamza",
-      "bat",
       0,
       0
      ]
     ],
     "Bangladesh": [
      [
-      "Najmul Hossain Shanto",
+      "Tanzid Hasan",
       "bat",
-      0,
-      1
-     ],
-     [
-      "Ebadot Hossain",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Jaker Ali",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Litton Das",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Mehidy Hasan Miraz",
-      "all",
-      0,
+      1,
       0
      ],
      [
       "Mahfijul Islam",
       "bat",
+      1,
+      0
+     ],
+     [
+      "Mominul Haque",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Najmul Hossain Shanto",
+      "bat",
+      1,
+      1
+     ],
+     [
+      "Towhid Hridoy",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Litton Das",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Jaker Ali",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Shoriful Islam",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Taskin Ahmed",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Khaled Ahmed",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Ebadot Hossain",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Mehidy Hasan Miraz",
+      "all",
       0,
       0
      ],
@@ -341,38 +366,8 @@
       0
      ],
      [
-      "Mominul Haque",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Shoriful Islam",
-      "bowl",
-      0,
-      0
-     ],
-     [
       "Taijul Islam",
       "all",
-      0,
-      0
-     ],
-     [
-      "Tanzid Hasan",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Taskin Ahmed",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Towhid Hridoy",
-      "bat",
       0,
       0
      ]
@@ -1495,11 +1490,11 @@
   },
   {
    "id": "espn-1561101",
-   "name": "Canada vs Namibia, 2nd Match",
+   "name": "Namibia vs Uganda, 2nd Match",
    "series": "ICC Cricket World Cup Qualifier Play-off · 2nd Match",
    "fmt": "odi",
-   "a": "Canada",
-   "b": "Namibia",
+   "a": "Namibia",
+   "b": "Uganda",
    "start": 1796357700000,
    "venue": "Mulpani Cricket Ground",
    "status": "Scheduled"
@@ -1745,95 +1740,7 @@
    "b": "Bangladesh",
    "start": 1796918400000,
    "venue": "Diamond Oval, Kimberley",
-   "status": "Scheduled",
-   "sq": {
-    "South Africa": [
-     [
-      "Bjorn Fortuin",
-      "bowl",
-      0,
-      1
-     ],
-     [
-      "Dewald Brevis",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Gerald Coetzee",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Connor Esterhuizen",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Donovan Ferreira",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jordan Hermann",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Duan Jansen",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Kwena Maphaka",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Nqobani Mokoena",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Nqabayomzi Peter",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Lhuan-dre Pretorius",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Sinethemba Qeshile",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Tristan Stubbs",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Prenelan Subrayen",
-      "all",
-      0,
-      0
-     ]
-    ]
-   }
+   "status": "Scheduled"
   },
   {
    "id": "espn-1561113",
@@ -1855,95 +1762,7 @@
    "b": "Bangladesh",
    "start": 1797078600000,
    "venue": "Willowmoore Park, Benoni",
-   "status": "Scheduled",
-   "sq": {
-    "South Africa": [
-     [
-      "Bjorn Fortuin",
-      "bowl",
-      0,
-      1
-     ],
-     [
-      "Dewald Brevis",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Gerald Coetzee",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Connor Esterhuizen",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Donovan Ferreira",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jordan Hermann",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Duan Jansen",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Kwena Maphaka",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Nqobani Mokoena",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Nqabayomzi Peter",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Lhuan-dre Pretorius",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Sinethemba Qeshile",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Tristan Stubbs",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Prenelan Subrayen",
-      "all",
-      0,
-      0
-     ]
-    ]
-   }
+   "status": "Scheduled"
   },
   {
    "id": "espn-1529235",
@@ -1965,95 +1784,7 @@
    "b": "Bangladesh",
    "start": 1797165000000,
    "venue": "SuperSport Park, Centurion",
-   "status": "Scheduled",
-   "sq": {
-    "South Africa": [
-     [
-      "Bjorn Fortuin",
-      "bowl",
-      0,
-      1
-     ],
-     [
-      "Dewald Brevis",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Gerald Coetzee",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Connor Esterhuizen",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Donovan Ferreira",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jordan Hermann",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Duan Jansen",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Kwena Maphaka",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Nqobani Mokoena",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Nqabayomzi Peter",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Lhuan-dre Pretorius",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Sinethemba Qeshile",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Tristan Stubbs",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Prenelan Subrayen",
-      "all",
-      0,
-      0
-     ]
-    ]
-   }
+   "status": "Scheduled"
   },
   {
    "id": "espn-1561116",
