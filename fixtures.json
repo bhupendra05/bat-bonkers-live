@@ -1,28 +1,6 @@
 {
- "at": 1795384061016,
+ "at": 1795418102326,
  "list": [
-  {
-   "id": "espn-1539441",
-   "name": "New Zealand vs India, 5th ODI",
-   "series": "India tour of New Zealand 2026/27 · 5th ODI",
-   "fmt": "odi",
-   "a": "New Zealand",
-   "b": "India",
-   "start": 1794708000000,
-   "venue": "Bay Oval, Mount Maunganui",
-   "status": "Result"
-  },
-  {
-   "id": "espn-1528704",
-   "name": "Australia vs England, 2nd ODI",
-   "series": "England tour of Australia 2026/27 · 2nd ODI",
-   "fmt": "odi",
-   "a": "Australia",
-   "b": "England",
-   "start": 1794713400000,
-   "venue": "Adelaide Oval",
-   "status": "Result"
-  },
   {
    "id": "espn-1525662",
    "name": "South Africa vs Bangladesh, 1st Test",
@@ -65,7 +43,7 @@
    "b": "India",
    "start": 1795039200000,
    "venue": "Basin Reserve, Wellington",
-   "status": "Stumps"
+   "status": "Result"
   },
   {
    "id": "espn-1528706",
@@ -76,7 +54,145 @@
    "b": "England",
    "start": 1795248900000,
    "venue": "Melbourne Cricket Ground",
-   "status": "Result"
+   "status": "Result",
+   "sq": {
+    "Australia": [
+     [
+      "Mitchell Marsh",
+      "bat",
+      1,
+      1
+     ],
+     [
+      "Jake Fraser-McGurk",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Sam Harper",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Nikhil Chaudhary",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Tim David",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Lachlan Shaw",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Joel Davies",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Jack Edwards",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Ben Dwarshuis",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Riley Meredith",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Adam Zampa",
+      "bowl",
+      1,
+      0
+     ]
+    ],
+    "England": [
+     [
+      "Phil Salt",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Aneurin Donald",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Harry Brook",
+      "bat",
+      1,
+      1
+     ],
+     [
+      "Tom Banton",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Will Jacks",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Liam Dawson",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Jamie Overton",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Adil Rashid",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Henry Crocombe",
+      "bowl",
+      1,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1525663",
@@ -87,7 +203,181 @@
    "b": "Bangladesh",
    "start": 1795420800000,
    "venue": "SuperSport Park, Centurion",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Temba Bavuma",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Marques Ackerman",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Corbin Bosch",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Matthew Breetzke",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tony de Zorzi",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Simon Harmer",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Marco Jansen",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Keshav Maharaj",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Aiden Markram",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Wiaan Mulder",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Anrich Nortje",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Dane Paterson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kagiso Rabada",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Ryan Rickelton",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Zubayr Hamza",
+      "bat",
+      0,
+      0
+     ]
+    ],
+    "Bangladesh": [
+     [
+      "Najmul Hossain Shanto",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Ebadot Hossain",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jaker Ali",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Litton Das",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Mehidy Hasan Miraz",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Mahfijul Islam",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mohammad Naim",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mominul Haque",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Shoriful Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Taijul Islam",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Tanzid Hasan",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Taskin Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Towhid Hridoy",
+      "bat",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1528707",
@@ -98,7 +388,199 @@
    "b": "England",
    "start": 1795508100000,
    "venue": "Carrara Oval",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "Australia": [
+     [
+      "Mitchell Marsh",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Nikhil Chaudhary",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Tim David",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Joel Davies",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Ben Dwarshuis",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jack Edwards",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jake Fraser-McGurk",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Sam Harper",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Spencer Johnson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Riley Meredith",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Mitchell Owen",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Lachlan Shaw",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Billy Stanlake",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Henry Thornton",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Adam Zampa",
+      "bowl",
+      0,
+      0
+     ]
+    ],
+    "England": [
+     [
+      "Harry Brook",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Tom Banton",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "James Coles",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Henry Crocombe",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Scott Currie",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Liam Dawson",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Aneurin Donald",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Eddie Jack",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Will Jacks",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jamie Overton",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Adil Rashid",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Thomas Rew",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Phil Salt",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Luke Wood",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1539443",
@@ -109,7 +591,193 @@
    "b": "India",
    "start": 1795730400000,
    "venue": "Hagley Oval, Christchurch",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "New Zealand": [
+     [
+      "Tom Latham",
+      "wk",
+      0,
+      1
+     ],
+     [
+      "Tom Blundell",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Devon Conway",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Jacob Duffy",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Dean Foxcroft",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Matt Henry",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kyle Jamieson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Daryl Mitchell",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Henry Nicholls",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Glenn Phillips",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Rachin Ravindra",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Nathan Smith",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Blair Tickner",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Will Young",
+      "bat",
+      0,
+      0
+     ]
+    ],
+    "India": [
+     [
+      "Shubman Gill",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Akash Deep",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jasprit Bumrah",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Gurnoor Brar",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Ravindra Jadeja",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Yashasvi Jaiswal",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Dhruv Jurel",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Anshul Kamboj",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Mohammed Siraj",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nitish Kumar Reddy",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Devdutt Padikkal",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Rishabh Pant",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prasidh Krishna",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "KL Rahul",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sai Sudharsan",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Washington Sundar",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1528708",
@@ -120,7 +788,199 @@
    "b": "England",
    "start": 1795767300000,
    "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "Australia": [
+     [
+      "Mitchell Marsh",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Nikhil Chaudhary",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Tim David",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Joel Davies",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Ben Dwarshuis",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jack Edwards",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jake Fraser-McGurk",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Sam Harper",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Spencer Johnson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Riley Meredith",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Mitchell Owen",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Lachlan Shaw",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Billy Stanlake",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Henry Thornton",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Adam Zampa",
+      "bowl",
+      0,
+      0
+     ]
+    ],
+    "England": [
+     [
+      "Harry Brook",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Tom Banton",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "James Coles",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Henry Crocombe",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Scott Currie",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Liam Dawson",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Aneurin Donald",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Eddie Jack",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Will Jacks",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jamie Overton",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Adil Rashid",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Thomas Rew",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Phil Salt",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Luke Wood",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1528709",
@@ -131,7 +991,199 @@
    "b": "England",
    "start": 1795940100000,
    "venue": "Sydney Cricket Ground",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "Australia": [
+     [
+      "Mitchell Marsh",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Nikhil Chaudhary",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Tim David",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Joel Davies",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Ben Dwarshuis",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jack Edwards",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jake Fraser-McGurk",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Sam Harper",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Spencer Johnson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Riley Meredith",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Mitchell Owen",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Lachlan Shaw",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Billy Stanlake",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Henry Thornton",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Adam Zampa",
+      "bowl",
+      0,
+      0
+     ]
+    ],
+    "England": [
+     [
+      "Harry Brook",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Tom Banton",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "James Coles",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Henry Crocombe",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Scott Currie",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Liam Dawson",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Aneurin Donald",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Eddie Jack",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Will Jacks",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jamie Overton",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Adil Rashid",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Thomas Rew",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Phil Salt",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Luke Wood",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1525664",
@@ -142,7 +1194,101 @@
    "b": "Bangladesh",
    "start": 1796124600000,
    "venue": "Buffalo Park, KuGumpo City",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Keshav Maharaj",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Corbin Bosch",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Quinton de Kock",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Tony de Zorzi",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lungi Ngidi",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Anrich Nortje",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1528710",
@@ -153,7 +1299,199 @@
    "b": "England",
    "start": 1796199300000,
    "venue": "Manuka Oval, Canberra",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "Australia": [
+     [
+      "Mitchell Marsh",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Nikhil Chaudhary",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Tim David",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Joel Davies",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Ben Dwarshuis",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jack Edwards",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jake Fraser-McGurk",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Sam Harper",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Spencer Johnson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Riley Meredith",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Mitchell Owen",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Lachlan Shaw",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Billy Stanlake",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Henry Thornton",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Adam Zampa",
+      "bowl",
+      0,
+      0
+     ]
+    ],
+    "England": [
+     [
+      "Harry Brook",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Tom Banton",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "James Coles",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Henry Crocombe",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Scott Currie",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Liam Dawson",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Aneurin Donald",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Eddie Jack",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Will Jacks",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jamie Overton",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Adil Rashid",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Thomas Rew",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Phil Salt",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Luke Wood",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561101",
@@ -175,7 +1513,101 @@
    "b": "Bangladesh",
    "start": 1796383800000,
    "venue": "St George's Park, Gqeberha",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Keshav Maharaj",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Corbin Bosch",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Quinton de Kock",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Tony de Zorzi",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lungi Ngidi",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Anrich Nortje",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561104",
@@ -197,7 +1629,101 @@
    "b": "Bangladesh",
    "start": 1796643000000,
    "venue": "Newlands, Cape Town",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Keshav Maharaj",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Corbin Bosch",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Quinton de Kock",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Tony de Zorzi",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lungi Ngidi",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Anrich Nortje",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1528711",
@@ -219,7 +1745,95 @@
    "b": "Bangladesh",
    "start": 1796918400000,
    "venue": "Diamond Oval, Kimberley",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Connor Esterhuizen",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Donovan Ferreira",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kwena Maphaka",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqabayomzi Peter",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prenelan Subrayen",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561113",
@@ -241,7 +1855,95 @@
    "b": "Bangladesh",
    "start": 1797078600000,
    "venue": "Willowmoore Park, Benoni",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Connor Esterhuizen",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Donovan Ferreira",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kwena Maphaka",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqabayomzi Peter",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prenelan Subrayen",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1529235",
@@ -263,7 +1965,95 @@
    "b": "Bangladesh",
    "start": 1797165000000,
    "venue": "SuperSport Park, Centurion",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Connor Esterhuizen",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Donovan Ferreira",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kwena Maphaka",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqabayomzi Peter",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prenelan Subrayen",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561116",
