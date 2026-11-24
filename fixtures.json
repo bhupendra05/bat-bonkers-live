@@ -1,5 +1,5 @@
 {
- "at": 1795464404900,
+ "at": 1795495412006,
  "list": [
   {
    "id": "espn-1550712",
@@ -614,6 +614,12 @@
       0
      ],
      [
+      "Matthew Fisher",
+      "bowl",
+      0,
+      0
+     ],
+     [
       "Dean Foxcroft",
       "all",
       0,
@@ -658,12 +664,6 @@
      [
       "Nathan Smith",
       "all",
-      0,
-      0
-     ],
-     [
-      "Blair Tickner",
-      "bowl",
       0,
       0
      ],
@@ -1282,6 +1282,98 @@
       0,
       0
      ]
+    ],
+    "Bangladesh": [
+     [
+      "Litton Das",
+      "wk",
+      0,
+      1
+     ],
+     [
+      "Towhid Hridoy",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Jaker Ali",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Mehidy Hasan Miraz",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Mohammad Naim",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mustafizur Rahman",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Najmul Hossain Shanto",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Parvez Hossain Emon",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Rishad Hossain",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Shoriful Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Khaled Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Tanvir Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Tanzid Hasan",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Taskin Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Yasir Ali",
+      "bat",
+      0,
+      0
+     ]
     ]
    }
   },
@@ -1601,6 +1693,98 @@
       0,
       0
      ]
+    ],
+    "Bangladesh": [
+     [
+      "Litton Das",
+      "wk",
+      0,
+      1
+     ],
+     [
+      "Towhid Hridoy",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Jaker Ali",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Mehidy Hasan Miraz",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Mohammad Naim",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mustafizur Rahman",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Najmul Hossain Shanto",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Parvez Hossain Emon",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Rishad Hossain",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Shoriful Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Khaled Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Tanvir Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Tanzid Hasan",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Taskin Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Yasir Ali",
+      "bat",
+      0,
+      0
+     ]
     ]
    }
   },
@@ -1717,6 +1901,98 @@
       0,
       0
      ]
+    ],
+    "Bangladesh": [
+     [
+      "Litton Das",
+      "wk",
+      0,
+      1
+     ],
+     [
+      "Towhid Hridoy",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Jaker Ali",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Mehidy Hasan Miraz",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Mohammad Naim",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mustafizur Rahman",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Najmul Hossain Shanto",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Parvez Hossain Emon",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Rishad Hossain",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Shoriful Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Khaled Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Tanvir Islam",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Tanzid Hasan",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Taskin Ahmed",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Yasir Ali",
+      "bat",
+      0,
+      0
+     ]
     ]
    }
   },
@@ -1740,7 +2016,95 @@
    "b": "Bangladesh",
    "start": 1796918400000,
    "venue": "Diamond Oval, Kimberley",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Connor Esterhuizen",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Donovan Ferreira",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kwena Maphaka",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqabayomzi Peter",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prenelan Subrayen",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561113",
@@ -1762,7 +2126,95 @@
    "b": "Bangladesh",
    "start": 1797078600000,
    "venue": "Willowmoore Park, Benoni",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Connor Esterhuizen",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Donovan Ferreira",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kwena Maphaka",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqabayomzi Peter",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prenelan Subrayen",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1529235",
@@ -1784,7 +2236,95 @@
    "b": "Bangladesh",
    "start": 1797165000000,
    "venue": "SuperSport Park, Centurion",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "South Africa": [
+     [
+      "Bjorn Fortuin",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Dewald Brevis",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Gerald Coetzee",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Connor Esterhuizen",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Donovan Ferreira",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Jordan Hermann",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Duan Jansen",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kwena Maphaka",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqobani Mokoena",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Nqabayomzi Peter",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Lhuan-dre Pretorius",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Sinethemba Qeshile",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Tristan Stubbs",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Prenelan Subrayen",
+      "all",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561116",
