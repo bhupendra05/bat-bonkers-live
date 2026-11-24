@@ -1,5 +1,5 @@
 {
- "at": 1795495412006,
+ "at": 1795541688495,
  "list": [
   {
    "id": "espn-1550712",
@@ -43,145 +43,7 @@
    "b": "England",
    "start": 1795248900000,
    "venue": "Melbourne Cricket Ground",
-   "status": "Result",
-   "sq": {
-    "Australia": [
-     [
-      "Mitchell Marsh",
-      "bat",
-      1,
-      1
-     ],
-     [
-      "Jake Fraser-McGurk",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Sam Harper",
-      "wk",
-      1,
-      0
-     ],
-     [
-      "Nikhil Chaudhary",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Tim David",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Lachlan Shaw",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Joel Davies",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Jack Edwards",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Ben Dwarshuis",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Riley Meredith",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Adam Zampa",
-      "bowl",
-      1,
-      0
-     ]
-    ],
-    "England": [
-     [
-      "Phil Salt",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Aneurin Donald",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Harry Brook",
-      "bat",
-      1,
-      1
-     ],
-     [
-      "Tom Banton",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Sam Curran",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Will Jacks",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Jordan Cox",
-      "wk",
-      1,
-      0
-     ],
-     [
-      "Liam Dawson",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Jamie Overton",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Adil Rashid",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Henry Crocombe",
-      "bowl",
-      1,
-      0
-     ]
-    ]
-   }
+   "status": "Result"
   },
   {
    "id": "espn-1525663",
@@ -324,12 +186,6 @@
       0
      ],
      [
-      "Jaker Ali",
-      "wk",
-      1,
-      0
-     ],
-     [
       "Shoriful Islam",
       "bowl",
       1,
@@ -370,212 +226,25 @@
       "all",
       0,
       0
+     ],
+     [
+      "Jaker Ali",
+      "wk",
+      0,
+      0
      ]
     ]
    }
   },
   {
-   "id": "espn-1528707",
+   "id": "cur-Australia-England-20261124",
    "name": "Australia vs England, 2nd T20I",
-   "series": "England tour of Australia 2026/27 · 2nd T20I",
+   "series": "England tour of Australia 2026 · 2nd T20I",
    "fmt": "t20",
    "a": "Australia",
    "b": "England",
    "start": 1795508100000,
-   "venue": "Carrara Oval",
-   "status": "Scheduled",
-   "sq": {
-    "Australia": [
-     [
-      "Mitchell Marsh",
-      "bat",
-      0,
-      1
-     ],
-     [
-      "Nikhil Chaudhary",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Tim David",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Joel Davies",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Ben Dwarshuis",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Jack Edwards",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jake Fraser-McGurk",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Sam Harper",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Spencer Johnson",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Riley Meredith",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Mitchell Owen",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Lachlan Shaw",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Billy Stanlake",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Henry Thornton",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Adam Zampa",
-      "bowl",
-      0,
-      0
-     ]
-    ],
-    "England": [
-     [
-      "Harry Brook",
-      "bat",
-      0,
-      1
-     ],
-     [
-      "Tom Banton",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "James Coles",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jordan Cox",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Henry Crocombe",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Sam Curran",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Scott Currie",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Liam Dawson",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Aneurin Donald",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Eddie Jack",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Will Jacks",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jamie Overton",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Adil Rashid",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Thomas Rew",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Phil Salt",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Luke Wood",
-      "bowl",
-      0,
-      0
-     ]
-    ]
-   }
+   "venue": "Carrara Oval, Carrara"
   },
   {
    "id": "espn-1539443",
@@ -2412,6 +2081,17 @@
    "b": "Sri Lanka",
    "start": 1797946200000,
    "venue": "Niranjan Shah Stadium, Rajkot",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1529239",
+   "name": "India vs Sri Lanka, 2nd T20I",
+   "series": "Sri Lanka tour of India 2026/27 · 2nd T20I",
+   "fmt": "t20",
+   "a": "India",
+   "b": "Sri Lanka",
+   "start": 1798119000000,
+   "venue": "Barabati Stadium, Cuttack",
    "status": "Scheduled"
   },
   {
