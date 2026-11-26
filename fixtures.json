@@ -1,17 +1,6 @@
 {
- "at": 1795647947786,
+ "at": 1795680402902,
  "list": [
-  {
-   "id": "espn-1528705",
-   "name": "Australia vs England, 3rd ODI",
-   "series": "England tour of Australia 2026/27 · 3rd ODI",
-   "fmt": "odi",
-   "a": "Australia",
-   "b": "England",
-   "start": 1794972600000,
-   "venue": "Bellerive Oval, Hobart",
-   "status": "Result"
-  },
   {
    "id": "espn-1539442",
    "name": "New Zealand vs India, 1st Test",
@@ -43,155 +32,156 @@
    "b": "Bangladesh",
    "start": 1795420800000,
    "venue": "SuperSport Park, Centurion",
+   "status": "Result"
+  },
+  {
+   "id": "espn-1528707",
+   "name": "Australia vs England, 2nd T20I",
+   "series": "England tour of Australia 2026/27 · 2nd T20I",
+   "fmt": "t20",
+   "a": "Australia",
+   "b": "England",
+   "start": 1795508100000,
+   "venue": "Carrara Oval",
    "status": "Result",
    "sq": {
-    "South Africa": [
+    "Australia": [
      [
-      "Aiden Markram",
+      "Mitchell Marsh",
       "bat",
       1,
       1
      ],
      [
-      "Marques Ackerman",
+      "Jake Fraser-McGurk",
       "bat",
       1,
       0
      ],
      [
-      "Zubayr Hamza",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Tony de Zorzi",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Matthew Breetzke",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Ryan Rickelton",
+      "Sam Harper",
       "wk",
       1,
       0
      ],
      [
-      "Wiaan Mulder",
+      "Nikhil Chaudhary",
       "all",
       1,
       0
      ],
      [
-      "Marco Jansen",
+      "Tim David",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Lachlan Shaw",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Joel Davies",
       "all",
       1,
       0
      ],
      [
-      "Simon Harmer",
+      "Jack Edwards",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Ben Dwarshuis",
       "bowl",
       1,
       0
      ],
      [
-      "Kagiso Rabada",
+      "Adam Zampa",
       "bowl",
       1,
       0
      ],
      [
-      "Anrich Nortje",
+      "Riley Meredith",
       "bowl",
       1,
       0
      ]
     ],
-    "Bangladesh": [
+    "England": [
      [
-      "Tanzid Hasan",
+      "Phil Salt",
       "bat",
       1,
       0
      ],
      [
-      "Mahfijul Islam",
+      "Aneurin Donald",
       "bat",
       1,
       0
      ],
      [
-      "Mominul Haque",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Najmul Hossain Shanto",
+      "Harry Brook",
       "bat",
       1,
       1
      ],
      [
-      "Towhid Hridoy",
+      "Tom Banton",
       "bat",
       1,
       0
      ],
      [
-      "Litton Das",
+      "James Coles",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Jordan Cox",
       "wk",
       1,
       0
      ],
      [
-      "Jaker Ali",
-      "bat",
+      "Liam Dawson",
+      "all",
       1,
       0
      ],
      [
-      "Shoriful Islam",
+      "Jamie Overton",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Adil Rashid",
       "bowl",
       1,
       0
      ],
      [
-      "Taskin Ahmed",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Khaled Ahmed",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Ebadot Hossain",
+      "Henry Crocombe",
       "bowl",
       1,
       0
      ]
     ]
    }
-  },
-  {
-   "id": "cur-Australia-England-20261124",
-   "name": "Australia vs England, 2nd T20I",
-   "series": "England tour of Australia 2026 · 2nd T20I",
-   "fmt": "t20",
-   "a": "Australia",
-   "b": "England",
-   "start": 1795508100000,
-   "venue": "Carrara Oval, Carrara"
   },
   {
    "id": "espn-1539443",
@@ -803,7 +793,7 @@
    "fmt": "odi",
    "a": "South Africa",
    "b": "Bangladesh",
-   "start": 1796124600000,
+   "start": 1796112000000,
    "venue": "Buffalo Park, KuGumpo City",
    "status": "Scheduled",
    "sq": {
@@ -1984,7 +1974,101 @@
    "b": "England",
    "start": 1797494400000,
    "venue": "The Wanderers Stadium, Johannesburg",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "England": [
+     [
+      "Joe Root",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Jofra Archer",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Gus Atkinson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Sonny Baker",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Harry Brook",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Sam Cook",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Ben Duckett",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Emilio Gay",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Dan Lawrence",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Ben McKinney",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Liam Patterson-White",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Ollie Robinson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jamie Smith",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Josh Tongue",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561122",
@@ -2042,24 +2126,26 @@
    "status": "Scheduled"
   },
   {
-   "id": "cur-Australia-NewZealand-20261226",
+   "id": "espn-1528713",
    "name": "Australia vs New Zealand, 3rd Test",
-   "series": "New Zealand tour of Australia 2026-27 · 3rd Test",
+   "series": "New Zealand tour of Australia 2026/27 · 3rd Test",
    "fmt": "test",
    "a": "Australia",
    "b": "New Zealand",
    "start": 1798241400000,
-   "venue": "Melbourne Cricket Ground, Melbourne"
+   "venue": "Melbourne Cricket Ground",
+   "status": "Scheduled"
   },
   {
-   "id": "cur-SouthAfrica-England-20261226",
+   "id": "espn-1525672",
    "name": "South Africa vs England, 2nd Test",
-   "series": "England tour of South Africa 2026-27 · 2nd Test",
+   "series": "England tour of South Africa 2026/27 · 2nd Test",
    "fmt": "test",
    "a": "South Africa",
    "b": "England",
    "start": 1798272000000,
-   "venue": "SuperSport Park, Centurion"
+   "venue": "SuperSport Park, Centurion",
+   "status": "Scheduled"
   },
   {
    "id": "cur-SouthAfrica-England-20270103",
