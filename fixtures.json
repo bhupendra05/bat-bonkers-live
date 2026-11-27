@@ -1,17 +1,6 @@
 {
- "at": 1795717406481,
+ "at": 1795747727099,
  "list": [
-  {
-   "id": "espn-1539442",
-   "name": "New Zealand vs India, 1st Test",
-   "series": "India tour of New Zealand 2026/27 · 1st Test",
-   "fmt": "test",
-   "a": "New Zealand",
-   "b": "India",
-   "start": 1795039200000,
-   "venue": "Basin Reserve, Wellington",
-   "status": "Result"
-  },
   {
    "id": "espn-1528706",
    "name": "Australia vs England, 1st T20I",
@@ -192,31 +181,73 @@
    "b": "India",
    "start": 1795730400000,
    "venue": "Hagley Oval, Christchurch",
-   "status": "Scheduled",
+   "status": "Tea",
    "sq": {
     "New Zealand": [
      [
       "Tom Latham",
       "wk",
-      0,
+      1,
       1
-     ],
-     [
-      "Tom Blundell",
-      "wk",
-      0,
-      0
      ],
      [
       "Devon Conway",
       "wk",
-      0,
+      1,
+      0
+     ],
+     [
+      "Henry Nicholls",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Rachin Ravindra",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Daryl Mitchell",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Tom Blundell",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Glenn Phillips",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Nathan Smith",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Kyle Jamieson",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Matt Henry",
+      "bowl",
+      1,
       0
      ],
      [
       "Jacob Duffy",
       "bowl",
-      0,
+      1,
       0
      ],
      [
@@ -232,48 +263,6 @@
       0
      ],
      [
-      "Matt Henry",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Kyle Jamieson",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Daryl Mitchell",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Henry Nicholls",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Glenn Phillips",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Rachin Ravindra",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Nathan Smith",
-      "all",
-      0,
-      0
-     ],
-     [
       "Will Young",
       "bat",
       0,
@@ -282,49 +271,73 @@
     ],
     "India": [
      [
+      "Yashasvi Jaiswal",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "KL Rahul",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "Devdutt Padikkal",
+      "bat",
+      1,
+      0
+     ],
+     [
       "Shubman Gill",
       "bat",
-      0,
+      1,
       1
      ],
      [
-      "Akash Deep",
-      "bowl",
-      0,
+      "Rishabh Pant",
+      "wk",
+      1,
       0
      ],
      [
-      "Jasprit Bumrah",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Gurnoor Brar",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Ravindra Jadeja",
+      "Washington Sundar",
       "all",
-      0,
-      0
-     ],
-     [
-      "Yashasvi Jaiswal",
-      "bat",
-      0,
+      1,
       0
      ],
      [
       "Dhruv Jurel",
       "wk",
-      0,
+      1,
+      0
+     ],
+     [
+      "Akash Deep",
+      "bowl",
+      1,
       0
      ],
      [
       "Anshul Kamboj",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Jasprit Bumrah",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Gurnoor Brar",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Ravindra Jadeja",
       "all",
       0,
       0
@@ -342,38 +355,14 @@
       0
      ],
      [
-      "Devdutt Padikkal",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Rishabh Pant",
-      "wk",
-      0,
-      0
-     ],
-     [
       "Prasidh Krishna",
       "bowl",
       0,
       0
      ],
      [
-      "KL Rahul",
-      "wk",
-      0,
-      0
-     ],
-     [
       "Sai Sudharsan",
       "bat",
-      0,
-      0
-     ],
-     [
-      "Washington Sundar",
-      "all",
       0,
       0
      ]
