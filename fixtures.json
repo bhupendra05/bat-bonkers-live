@@ -1,5 +1,5 @@
 {
- "at": 1795787184998,
+ "at": 1795819168395,
  "list": [
   {
    "id": "espn-1528706",
@@ -43,7 +43,7 @@
    "b": "India",
    "start": 1795730400000,
    "venue": "Hagley Oval, Christchurch",
-   "status": "Stumps",
+   "status": "Live",
    "sq": {
     "New Zealand": [
      [
@@ -545,12 +545,6 @@
       0
      ],
      [
-      "Will Jacks",
-      "all",
-      0,
-      0
-     ],
-     [
       "Jamie Overton",
       "all",
       0,
@@ -571,6 +565,12 @@
      [
       "Phil Salt",
       "wk",
+      0,
+      0
+     ],
+     [
+      "Asa Tribe",
+      "bat",
       0,
       0
      ],
@@ -951,12 +951,6 @@
       0
      ],
      [
-      "Will Jacks",
-      "all",
-      0,
-      0
-     ],
-     [
       "Jamie Overton",
       "all",
       0,
@@ -977,6 +971,12 @@
      [
       "Phil Salt",
       "wk",
+      0,
+      0
+     ],
+     [
+      "Asa Tribe",
+      "bat",
       0,
       0
      ],
@@ -1789,7 +1789,101 @@
    "b": "England",
    "start": 1797494400000,
    "venue": "The Wanderers Stadium, Johannesburg",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "England": [
+     [
+      "Joe Root",
+      "bat",
+      0,
+      1
+     ],
+     [
+      "Jofra Archer",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Gus Atkinson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Sonny Baker",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Harry Brook",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Sam Cook",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jordan Cox",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Ben Duckett",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Emilio Gay",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Dan Lawrence",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Ben McKinney",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Liam Patterson-White",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Ollie Robinson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Jamie Smith",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Josh Tongue",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1561122",
