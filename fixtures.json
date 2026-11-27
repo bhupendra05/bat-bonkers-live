@@ -1,5 +1,5 @@
 {
- "at": 1795747727099,
+ "at": 1795787184998,
  "list": [
   {
    "id": "espn-1528706",
@@ -32,145 +32,7 @@
    "b": "England",
    "start": 1795508100000,
    "venue": "Carrara Oval",
-   "status": "Result",
-   "sq": {
-    "Australia": [
-     [
-      "Mitchell Marsh",
-      "bat",
-      1,
-      1
-     ],
-     [
-      "Jake Fraser-McGurk",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Sam Harper",
-      "wk",
-      1,
-      0
-     ],
-     [
-      "Nikhil Chaudhary",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Tim David",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Lachlan Shaw",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Joel Davies",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Jack Edwards",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Ben Dwarshuis",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Adam Zampa",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Riley Meredith",
-      "bowl",
-      1,
-      0
-     ]
-    ],
-    "England": [
-     [
-      "Phil Salt",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Aneurin Donald",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "Harry Brook",
-      "bat",
-      1,
-      1
-     ],
-     [
-      "Tom Banton",
-      "bat",
-      1,
-      0
-     ],
-     [
-      "James Coles",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Sam Curran",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Jordan Cox",
-      "wk",
-      1,
-      0
-     ],
-     [
-      "Liam Dawson",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Jamie Overton",
-      "all",
-      1,
-      0
-     ],
-     [
-      "Adil Rashid",
-      "bowl",
-      1,
-      0
-     ],
-     [
-      "Henry Crocombe",
-      "bowl",
-      1,
-      0
-     ]
-    ]
-   }
+   "status": "Result"
   },
   {
    "id": "espn-1539443",
@@ -181,7 +43,7 @@
    "b": "India",
    "start": 1795730400000,
    "venue": "Hagley Oval, Christchurch",
-   "status": "Tea",
+   "status": "Stumps",
    "sq": {
     "New Zealand": [
      [
@@ -378,195 +240,141 @@
    "b": "England",
    "start": 1795767300000,
    "venue": "Brisbane Cricket Ground, Woolloongabba, Brisbane",
-   "status": "Scheduled",
+   "status": "Result",
    "sq": {
     "Australia": [
      [
       "Mitchell Marsh",
       "bat",
-      0,
+      1,
       1
-     ],
-     [
-      "Nikhil Chaudhary",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Tim David",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Joel Davies",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Ben Dwarshuis",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Jack Edwards",
-      "all",
-      0,
-      0
      ],
      [
       "Jake Fraser-McGurk",
       "bat",
-      0,
+      1,
       0
      ],
      [
       "Sam Harper",
       "wk",
-      0,
+      1,
       0
      ],
      [
-      "Spencer Johnson",
-      "bowl",
-      0,
+      "Nikhil Chaudhary",
+      "all",
+      1,
       0
      ],
      [
-      "Riley Meredith",
-      "bowl",
-      0,
+      "Tim David",
+      "bat",
+      1,
+      0
+     ],
+     [
+      "Joel Davies",
+      "all",
+      1,
       0
      ],
      [
       "Mitchell Owen",
       "all",
-      0,
+      1,
       0
      ],
      [
-      "Lachlan Shaw",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Billy Stanlake",
+      "Ben Dwarshuis",
       "bowl",
-      0,
-      0
-     ],
-     [
-      "Henry Thornton",
-      "bowl",
-      0,
+      1,
       0
      ],
      [
       "Adam Zampa",
       "bowl",
-      0,
+      1,
+      0
+     ],
+     [
+      "Riley Meredith",
+      "bowl",
+      1,
+      0
+     ],
+     [
+      "Billy Stanlake",
+      "bowl",
+      1,
       0
      ]
     ],
     "England": [
      [
-      "Harry Brook",
+      "Phil Salt",
       "bat",
-      0,
-      1
-     ],
-     [
-      "Tom Banton",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "James Coles",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Jordan Cox",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Henry Crocombe",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Sam Curran",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Scott Currie",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Liam Dawson",
-      "all",
-      0,
+      1,
       0
      ],
      [
       "Aneurin Donald",
       "bat",
-      0,
+      1,
       0
      ],
      [
-      "Eddie Jack",
-      "bowl",
-      0,
+      "Harry Brook",
+      "bat",
+      1,
+      1
+     ],
+     [
+      "Tom Banton",
+      "bat",
+      1,
       0
      ],
      [
-      "Will Jacks",
+      "Jordan Cox",
+      "wk",
+      1,
+      0
+     ],
+     [
+      "James Coles",
       "all",
-      0,
+      1,
+      0
+     ],
+     [
+      "Sam Curran",
+      "all",
+      1,
+      0
+     ],
+     [
+      "Liam Dawson",
+      "all",
+      1,
       0
      ],
      [
       "Jamie Overton",
       "all",
-      0,
+      1,
       0
      ],
      [
       "Adil Rashid",
       "bowl",
-      0,
+      1,
       0
      ],
      [
-      "Thomas Rew",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Phil Salt",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Luke Wood",
+      "Henry Crocombe",
       "bowl",
-      0,
+      1,
       0
      ]
     ]
@@ -1981,101 +1789,7 @@
    "b": "England",
    "start": 1797494400000,
    "venue": "The Wanderers Stadium, Johannesburg",
-   "status": "Scheduled",
-   "sq": {
-    "England": [
-     [
-      "Joe Root",
-      "bat",
-      0,
-      1
-     ],
-     [
-      "Jofra Archer",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Gus Atkinson",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Sonny Baker",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Harry Brook",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Sam Cook",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Jordan Cox",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Ben Duckett",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Emilio Gay",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Dan Lawrence",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Ben McKinney",
-      "bat",
-      0,
-      0
-     ],
-     [
-      "Liam Patterson-White",
-      "all",
-      0,
-      0
-     ],
-     [
-      "Ollie Robinson",
-      "bowl",
-      0,
-      0
-     ],
-     [
-      "Jamie Smith",
-      "wk",
-      0,
-      0
-     ],
-     [
-      "Josh Tongue",
-      "bowl",
-      0,
-      0
-     ]
-    ]
-   }
+   "status": "Scheduled"
   },
   {
    "id": "espn-1561122",
@@ -2152,6 +1866,17 @@
    "b": "England",
    "start": 1798272000000,
    "venue": "SuperSport Park, Centurion",
+   "status": "Scheduled"
+  },
+  {
+   "id": "espn-1529240",
+   "name": "India vs Sri Lanka, 3rd T20I",
+   "series": "Sri Lanka tour of India 2026/27 · 3rd T20I",
+   "fmt": "t20",
+   "a": "India",
+   "b": "Sri Lanka",
+   "start": 1798378200000,
+   "venue": "Maharashtra Cricket Association Stadium, Pune",
    "status": "Scheduled"
   },
   {
