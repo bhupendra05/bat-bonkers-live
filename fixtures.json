@@ -1,5 +1,5 @@
 {
- "at": 1795819168395,
+ "at": 1795851508874,
  "list": [
   {
    "id": "espn-1528706",
@@ -43,7 +43,7 @@
    "b": "India",
    "start": 1795730400000,
    "venue": "Hagley Oval, Christchurch",
-   "status": "Live",
+   "status": "Stumps",
    "sq": {
     "New Zealand": [
      [
@@ -1426,7 +1426,89 @@
    "b": "New Zealand",
    "start": 1796782800000,
    "venue": "Perth Stadium",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "Australia": [
+     [
+      "Pat Cummins",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Scott Boland",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Alex Carey",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Jack Clayton",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Cameron Green",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Josh Hazlewood",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Travis Head",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Josh Inglis",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Michael Neser",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Matt Renshaw",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Corey Rocchiccioli",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Steven Smith",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mitchell Starc",
+      "bowl",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1525667",
@@ -1778,7 +1860,187 @@
    "b": "New Zealand",
    "start": 1797467400000,
    "venue": "Adelaide Oval",
-   "status": "Scheduled"
+   "status": "Scheduled",
+   "sq": {
+    "Australia": [
+     [
+      "Pat Cummins",
+      "bowl",
+      0,
+      1
+     ],
+     [
+      "Scott Boland",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Alex Carey",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Jack Clayton",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Cameron Green",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Josh Hazlewood",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Travis Head",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Josh Inglis",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Michael Neser",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Matt Renshaw",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Corey Rocchiccioli",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Steven Smith",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Mitchell Starc",
+      "bowl",
+      0,
+      0
+     ]
+    ],
+    "New Zealand": [
+     [
+      "Tom Latham",
+      "wk",
+      0,
+      1
+     ],
+     [
+      "Tom Blundell",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Devon Conway",
+      "wk",
+      0,
+      0
+     ],
+     [
+      "Jacob Duffy",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Matthew Fisher",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Dean Foxcroft",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Matt Henry",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Kyle Jamieson",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Daryl Mitchell",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Henry Nicholls",
+      "bat",
+      0,
+      0
+     ],
+     [
+      "Will O’Rourke",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Glenn Phillips",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Michael Rae",
+      "bowl",
+      0,
+      0
+     ],
+     [
+      "Rachin Ravindra",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Nathan Smith",
+      "all",
+      0,
+      0
+     ],
+     [
+      "Will Young",
+      "bat",
+      0,
+      0
+     ]
+    ]
+   }
   },
   {
    "id": "espn-1525671",
